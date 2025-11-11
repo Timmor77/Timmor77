@@ -1,3 +1,5 @@
+<img width="1344" height="444" alt="banner" src="https://github.com/user-attachments/assets/7ea1ea9c-bfe9-4035-b446-e4a4aeac48e8" />
+
 # 💫 About Me:
 Double major in Mathematics & Computer Science<br>Interested in Machine Learning/AI, modeling, and optimization. <br>I enjoy shipping clean, reproducible ML pipelines.
 
