@@ -1,8 +1,7 @@
-# 💫 About Me
+# Timofei Amosov
 
-Double major in Mathematics & Computer Science.  
-Interested in Machine Learning/AI, modeling, and optimization.  
-I enjoy building clean, reproducible projects and practical ML pipelines.
+Mathematics & Computer Science student at Université Paris Cité.  
+IOAI bronze medalist and FOAI national champion, working across AI/ML, modeling, optimization, and practical software systems.
 
 ## 🔬 Current Focus
 
@@ -30,5 +29,6 @@ I enjoy building clean, reproducible projects and practical ML pipelines.
 
 ## 🌐 Socials
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-timofei.amosov.net-7D3028?logo=googlechrome&logoColor=white)](https://timofei.amosov.net/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timofei-amosov)
 
