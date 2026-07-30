@@ -1,6 +1,6 @@
 # Timofei Amosov
 
-Mathematics & Computer Science student at Université Paris Cité.  
+Mathematics & Computer Science student.
 IOAI bronze medalist and FOAI national champion, working across AI/ML, modeling, optimization, and practical software systems.
 
 ## 🔬 Current Focus
