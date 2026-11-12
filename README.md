@@ -6,6 +6,7 @@ AI undergraduate at **MBZUAI** (Abu Dhabi).
 ## 🔬 Current Focus
 
 - Computer vision and robotics
+- Humanoid control with reinforcement learning
 - GPU computing
 
 ## 🚀 Projects
